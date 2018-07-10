@@ -1,0 +1,428 @@
+<manifest alg="2" build="2018.1.0.386" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="jungleboyxtreme.github.io/web" resolutions="1x" timestamp="1531260033587">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_s-a-f-a.css" crc="4275819128" ref="17:15:8:12:16:11:chica-tropical:5:nosotros:10:6:index:13:20:18:14:men-verano:19:7:9"/>
+    <file name="nomq_preview_master_s-a-f-a.css" crc="3824530138" ref="17:15:8:12:16:11:chica-tropical:5:nosotros:10:6:index:13:20:18:14:men-verano:19:7:9"/>
+    <file name="17.css" crc="3992163716" ref="17"/>
+    <file name="15.css" crc="3992163716" ref="15"/>
+    <file name="8.css" crc="3992163716" ref="8"/>
+    <file name="12.css" crc="3992163716" ref="12"/>
+    <file name="16.css" crc="3992163716" ref="16"/>
+    <file name="11.css" crc="3992163716" ref="11"/>
+    <file name="chica-tropical.css" crc="409682267" ref="chica-tropical"/>
+    <file name="5.css" crc="3992163716" ref="5"/>
+    <file name="nosotros.css" crc="3847900615" ref="nosotros"/>
+    <file name="10.css" crc="3992163716" ref="10"/>
+    <file name="6.css" crc="3992163716" ref="6"/>
+    <file name="index.css" crc="4010845990" ref="index"/>
+    <file name="nomq_index.css" crc="100106985" ref="index"/>
+    <file name="13.css" crc="3992163716" ref="13"/>
+    <file name="20.css" crc="3992163716" ref="20"/>
+    <file name="18.css" crc="3992163716" ref="18"/>
+    <file name="14.css" crc="3992163716" ref="14"/>
+    <file name="men-verano.css" crc="3832309813" ref="men-verano"/>
+    <file name="19.css" crc="3992163716" ref="19"/>
+    <file name="7.css" crc="3992163716" ref="7"/>
+    <file name="9.css" crc="3992163716" ref="9"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="museutils.js" crc="340535759" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="whatinput.js" crc="86476730" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="museconfig.js" crc="310584261" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="jquery.musemenu.js" crc="510910590" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="jquery.watch.js" crc="51536988" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="webpro.js" crc="4059564322" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="form_check.php" crc="4020933626" ref="index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="index"/>
+    <file name="form_process.php" crc="37464564" ref="index"/>
+    <file name="form-u25476.php" crc="323967538" ref="index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="touchswipe.js" crc="4075097462" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+    <file name="require.js" crc="7928878" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20"/>
+  </folder>
+  <folder name="images">
+    <file name="urban jd-crop-u238.jpg" crc="263669857" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="shopping-cart.svg" crc="3849773569" seo="true" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20">
+      <caption webpage="5" alt=""/>
+      <caption webpage="6" alt=""/>
+      <caption webpage="7" alt=""/>
+      <caption webpage="8" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="10" alt=""/>
+      <caption webpage="11" alt=""/>
+      <caption webpage="12" alt=""/>
+      <caption webpage="13" alt=""/>
+      <caption webpage="14" alt=""/>
+      <caption webpage="15" alt=""/>
+      <caption webpage="17" alt=""/>
+      <caption webpage="19" alt=""/>
+      <caption webpage="20" alt=""/>
+      <caption webpage="16" alt=""/>
+      <caption webpage="18" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="shopping-cart_poster_.png" crc="490411883" ref="index"/>
+    <file name="magnifier.svg" crc="4081953860" seo="true" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20">
+      <caption webpage="5" alt=""/>
+      <caption webpage="6" alt=""/>
+      <caption webpage="7" alt=""/>
+      <caption webpage="8" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="10" alt=""/>
+      <caption webpage="11" alt=""/>
+      <caption webpage="12" alt=""/>
+      <caption webpage="13" alt=""/>
+      <caption webpage="14" alt=""/>
+      <caption webpage="15" alt=""/>
+      <caption webpage="17" alt=""/>
+      <caption webpage="19" alt=""/>
+      <caption webpage="20" alt=""/>
+      <caption webpage="16" alt=""/>
+      <caption webpage="18" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="magnifier_poster_.png" crc="4245477764" ref="index"/>
+    <file name="round-account-button-with-user-inside.svg" crc="270283539" seo="true" ref="index:men-verano:chica-tropical:nosotros:5:6:7:9:10:11:12:8:13:14:15:16:17:18:19:20">
+      <caption webpage="5" alt=""/>
+      <caption webpage="6" alt=""/>
+      <caption webpage="7" alt=""/>
+      <caption webpage="8" alt=""/>
+      <caption webpage="9" alt=""/>
+      <caption webpage="10" alt=""/>
+      <caption webpage="11" alt=""/>
+      <caption webpage="12" alt=""/>
+      <caption webpage="13" alt=""/>
+      <caption webpage="14" alt=""/>
+      <caption webpage="15" alt=""/>
+      <caption webpage="17" alt=""/>
+      <caption webpage="19" alt=""/>
+      <caption webpage="20" alt=""/>
+      <caption webpage="16" alt=""/>
+      <caption webpage="18" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="round-account-button-with-user-inside_poster_.png" crc="4105150678" ref="index"/>
+    <file name="jd bibidi 3-crop-u128.jpg" crc="4138850106" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi.jpg" crc="271762441" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 2-crop-u132.jpg" crc="3984454122" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summer .jpg" crc="477311201" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women .jpg" crc="4100484279" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 6-crop-u122.jpg" crc="105044394" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi 2.jpg" crc="3878651342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas.jpg" crc="204994589" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas pharell 2.jpg" crc="4038148284" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike sf air force 1 high-crop-u118.jpg" crc="3785711310" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sneaker-crop-u120.jpg" crc="113304093" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="off white w safa.jpg" crc="93024273" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike air max thea desert camo3.jpg" crc="329658700" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike air max thea desert camo 2.jpg" crc="33752337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yohji .jpg" crc="3939955832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas yeezy 750 2-crop-u178.jpg" crc="4022788505" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="nike air max thea desert camo-crop-u848.jpg" crc="7129676" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jordans-crop-u184.jpg" crc="4293093773" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas sis pro-crop-u182.jpg" crc="3930957451" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas yeezy 750-crop-u174.jpg" crc="4166688256" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas tubular -crop-u180.jpg" crc="102890497" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="copyright-symbol.svg" crc="411142357" seo="true" ref="index:men-verano:chica-tropical:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="copyright-symbol_poster_.png" crc="535786442" ref="index"/>
+    <file name="facebook.svg" crc="246362738" seo="true" ref="index:men-verano:chica-tropical:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="facebook_poster_.png" crc="104175189" ref="index"/>
+    <file name="twitter.svg" crc="180180992" seo="true" ref="index:men-verano:chica-tropical:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="twitter_poster_.png" crc="241518774" ref="index"/>
+    <file name="instagram.svg" crc="4205763691" seo="true" ref="index:men-verano:chica-tropical:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="instagram_poster_.png" crc="406468928" ref="index"/>
+    <file name="youtube.svg" crc="4115717883" seo="true" ref="index:men-verano:chica-tropical:nosotros">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="chica-tropical" alt=""/>
+      <caption webpage="nosotros" alt=""/>
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="youtube_poster_.png" crc="353245612" ref="index"/>
+    <file name="urban jd-crop-u2382.jpg" crc="4213393458" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi 3-crop-u1282.jpg" crc="281800498" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 2-crop-u1322.jpg" crc="391909337" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 6-crop-u1222.jpg" crc="517851449" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike sf air force 1 high-crop-u1182.jpg" crc="344106768" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sneaker-crop-u1202.jpg" crc="411461420" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="off white w safa357x238.jpg" crc="91054380" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yohji 358x239.jpg" crc="3939955832" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas yeezy 750 2.jpg" crc="4228894990" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike air max thea desert camo.jpg" crc="3778172462" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jordans.jpg" crc="4214239223" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas sis pro-crop-u1822.jpg" crc="303037313" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas yeezy 750-crop-u1742.jpg" crc="148290342" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas tubular -crop-u1802.jpg" crc="3926503600" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="urban jd-crop-u2383.jpg" crc="4249298898" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi 3-crop-u1283.jpg" crc="4052267946" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi363x472.jpg" crc="199060557" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 2-crop-u1323.jpg" crc="1974172" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="summer 349x514.jpg" crc="3988416053" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 344x504.jpg" crc="171814257" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd women 6-crop-u1223.jpg" crc="3861300799" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi 2345x496.jpg" crc="429136244" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas335x502.jpg" crc="10398233" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas pharell 2337x504.jpg" crc="125302167" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike sf air force 1 high-crop-u1183.jpg" crc="499894073" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="sneaker-crop-u1203.jpg" crc="4261685086" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike air max thea desert camo3229x225.jpg" crc="3990157646" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="off white w safa229x153.jpg" crc="4102266916" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="yohji 229x153.jpg" crc="4276759974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas yeezy 750 2-crop-u1782.jpg" crc="3938334764" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="nike air max thea desert camo-crop-u8482.jpg" crc="4284549810" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jordans-crop-u1842.jpg" crc="75781209" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas sis pro-crop-u1823.jpg" crc="3886898564" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas yeezy 750-crop-u1743.jpg" crc="3780036062" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="adidas tubular -crop-u1803.jpg" crc="502308617" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="jd bibidi2.jpg" crc="207089205" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="jd bibidi 3.jpg" crc="331192627" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="jd bibidi 22.jpg" crc="449616855" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="2c5e5f5fd635f9f0e680cffba9dc3321.jpg" crc="325952944" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="top tank -crop-u11673.jpg" crc="4097025088" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="summer -crop-u11683.jpg" crc="4156871080" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="bibidi surfer-crop-u12001.jpg" crc="4162661397" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="bibidi 2.jpg" crc="3939248710" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="loros bibidi-crop-u12026.jpg" crc="3867808841" seo="true" ref="men-verano">
+      <caption webpage="men-verano" alt=""/>
+    </file>
+    <file name="jd women 2.jpg" crc="4202387982" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="tropical girl 2-crop-u17152.jpg" crc="3811944947" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="tropic girl 4-crop-u17142.jpg" crc="10431968" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="girl hawaiian-crop-u17172.jpg" crc="4224262125" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="tropic girl 1.jpg" crc="160982122" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="piña vibes girl-crop-u17204.jpg" crc="3914408655" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="palm tank top.jpg" crc="4050431325" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="girl haw-crop-u17194.jpg" crc="4293186702" seo="true" ref="chica-tropical">
+      <caption webpage="chica-tropical" alt=""/>
+    </file>
+    <file name="palm-crop-u18897.jpg" crc="4070059541" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+    <file name="safa man bwç-crop-u19180.jpg" crc="4175633874" seo="true" ref="nosotros">
+      <caption webpage="nosotros" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="162180841" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="men-verano.html" crc="180623330" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="chica-tropical.html" crc="213721545" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="nosotros.html" crc="151324133" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="5.html" crc="3947811383" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="6.html" crc="326593410" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="7.html" crc="3814874089" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="9.html" crc="4015835041" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="10.html" crc="4166869135" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="11.html" crc="4261497931" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="12.html" crc="140508395" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="8.html" crc="3783231383" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="13.html" crc="419954359" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="14.html" crc="4022507479" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="15.html" crc="3865846006" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="16.html" crc="4228252562" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="17.html" crc="4202768996" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="18.html" crc="3918030129" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="19.html" crc="385037558" seo="true" mt="1531259633792" redirect="true"/>
+  <file name="20.html" crc="401518730" seo="true" mt="1531259633792" redirect="true"/>
+</manifest>
